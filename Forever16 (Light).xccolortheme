@@ -137,13 +137,13 @@
 		<key>xcode.syntax.identifier.variable.system</key>
 		<string>0 0.223529 1 1</string>
 		<key>xcode.syntax.keyword</key>
-		<string>0.78 0 0.598 1</string>
+		<string>0.68 0 0.521333 1</string>
 		<key>xcode.syntax.mark</key>
 		<string>0.867321 0.577979 0.371307 1</string>
 		<key>xcode.syntax.markup.code</key>
 		<string>0 0.4 0.8 1</string>
 		<key>xcode.syntax.number</key>
-		<string>0 0 1 1</string>
+		<string>0.843137 0.143333 0.213314 1</string>
 		<key>xcode.syntax.plain</key>
 		<string>0.192157 0.192157 0.192157 1</string>
 		<key>xcode.syntax.preprocessor</key>
