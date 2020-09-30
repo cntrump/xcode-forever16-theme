@@ -19,7 +19,13 @@ wwdc16 stylesheet:
 .bg-dark { background-color: #20222B; }
 ```
 
-![](screenshot.png)
+- Dark theme
+
+    ![](dark.png)
+
+- Light theme
+
+    ![](light.png)
 
 ## Install
 
